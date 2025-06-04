@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"ESP32-WROOM-32D";1;"ESP32-WROOM-32";;;
+2;"J4,J3,J2";"buck voltage converter";3;"Conn_01x04";;;
+3;"J1";"BarrelJack_Horizontal";1;"Barrel_Jack";;;
+4;"A3,A2";"Pololu_Breakout-16_15.2x20.3mm";2;"Pololu_Breakout_A4988";;;

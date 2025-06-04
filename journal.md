@@ -45,7 +45,21 @@ while i COULD go with something with less torque, if i use these motors, i can u
 
 mostly just found materials, and started pcb. total time ~ 2.5 hrs
 
-
+---
+# day 2, monday, june 2nd
+- looking at step down voltage converters for the esp32. thinking of a LM2596S.
+- following up on this, i think im just gonna find the voltage converter later ... they're all around the same size and their pins are in the same place so i can just replace the footprint later 
+routed all the components. i think everythings okay but i need to fix the voltage converters footprint. and i need to just double check everything. 
+- ^^ that was earlier. i am double checking and having trouble with the voltage converters footprint - i need to infer where the pads are from the picture. sucks but oh well
+total time - around half an hour
+---
+# day 3, tuesday, june 3rd
+- finally created the stupid voltage converter footprint and symbol after being very confused for quite a while. my first time creating a custom footprint and symbol! here they are:
+![image](photos/pcbsymbol.png)
+![image](photos/pcbschema.png)
+and i had to do all that off of this picture.
+![image](photos/voltageReducer.png) (which is my new voltage step down converter).
+pcb just has to be routed.
 
 
 
