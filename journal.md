@@ -61,5 +61,15 @@ and i had to do all that off of this picture.
 ![image](photos/voltageReducer.png) (which is my new voltage step down converter).
 pcb just has to be routed.
 
+total time: 30 min
+---
 
 
+# day 4, wednesday, june 4th
+- joined the call
+- mostly just made the svg for the pcb design. all that stuff is now in the a(dobe)i(llustrator) folder, with the svgs seperated 
+![image](photos/zepPcb.png)
+- based off of the led zeppelin fallen angel guy. the back of the pcb is gonna be in the front of the clock. 
+
+total time: 45 min
+---
