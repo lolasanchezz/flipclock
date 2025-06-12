@@ -73,3 +73,11 @@ total time: 30 min
 
 total time: 45 min
 ---
+
+# day 5, wednesday, june 11
+- need different step down voltage converters. i need two 12v -> 3.3-5v for the drivers, and one 12v -> 3.3 or 5v. maybe I could just step down the voltage once? that's what im going to do. also found a new voltage [converter](https://www.aliexpress.us/item/3256802110638183.html?algo_pvid=636b807e-9973-4b5c-a717-95c4500b2616&algo_exp_id=636b807e-9973-4b5c-a717-95c4500b2616-26&pdp_ext_f=%7B%22order%22:%22506%22,%22eval%22:%221%22%7D&pdp_npi=4@dis!USD!1.49!0.99!!!1.49!0.99!@2101eac917496710963508293e4913!12000019968222049!sea!US!6382035295!ABX&curPageLogUid=Gv0yfuNjmllD&utparam-url=scene:search%7Cquery_from:). 
+- finished the pcb. 
+![image](photos/pcb3dv1.png) ![image](photos/pcbPcbv1.png)
+- need a case, a bom, the wheels that flip the digits, housing for the entire thing, and the software
+total time: 2 hrs
+---
