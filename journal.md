@@ -81,3 +81,9 @@ total time: 45 min
 - need a case, a bom, the wheels that flip the digits, housing for the entire thing, and the software
 total time: 2 hrs
 ---
+# day 6, thursday, june 12
+- writing this journal entry in retrospect, but i finished the case. it took me so long because i've never used fusion 360, or really any 3d modeling software, ever. i added a snap locking mechanism between the lid and case that you can't really see, but here it is
+![image](photos/case.png)
+
+total time: 3.5 hrs
+---
